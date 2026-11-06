@@ -17,4 +17,4 @@ Opened Control Panel > Network and Sharing Center > Change adapter settings.
 Accessed the network adapter properties, opened Internet Protocol Version 4 (TCP/IPv4) properties, and configured the custom static address.
 Test Connectivity:
 Opened Command Prompt on Windows and verified connectivity to the Kali VM and external network access.
-Confirmed bidirectional communication and successful ping testing with 0% packet loss. isko bi aise upr wala jase diya ha wase de do
+Confirmed bidirectional communication and successful ping testing with 0% packet loss.
